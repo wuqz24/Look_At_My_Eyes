@@ -1,0 +1,1 @@
+"tb_display_mode" -s "dmE" -mt "off" --O0 --timescale "1ns/1ps" 

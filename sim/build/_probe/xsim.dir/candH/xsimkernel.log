@@ -1,0 +1,7 @@
+Running: xsim.dir/candH/xsimk.exe -runall -simmode gui -wdb candH.wdb -simrunnum 0 -socket 26178
+Design successfully loaded
+Design Loading Memory Usage: 9452 KB (Peak: 9452 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 10200 KB (Peak: 10200 KB)
+Simulation CPU Usage: 8014 ms

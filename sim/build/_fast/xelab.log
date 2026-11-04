@@ -1,0 +1,26 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe tb_mixer -s mix --mt off --O0 --timescale 1ns/1ps 
+Turned off multi-threading.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3645] port 'O_pan_pwm' remains unconnected for this instance [D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_mixer.v:12]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.frame_tag_rx_default
+Compiling module work.video_health_default
+Compiling module work.tracker_control(USE_ARM_INPUT=0)
+Compiling module work.tracker_color_gate
+Compiling module work.tracker_region_channel(WIDTH=256...
+Compiling module work.tracker_roi_refine(MIN_PIXELS=48...
+Compiling module work.tracker_candidates(WIDTH=256,HEI...
+Compiling module work.servo_control(PAN_SIGN=-1,WIDTH=...
+Compiling module work.buzzer_one_shot_default
+Compiling module work.tracker_osd
+Compiling module work.anlogic_logo_compact
+Compiling module work.tracker_target_mask_gate
+Compiling module work.display_mode
+Compiling module work.hdmi_mixer(IMG_WIDTH=256,IMG_HEI...
+Compiling module work.tb_mixer

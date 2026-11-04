@@ -1,0 +1,1 @@
+xsim {servo} -autoloadwcfg -runall

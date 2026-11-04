@@ -1,0 +1,113 @@
+#-----------------------------------------------------------
+# xsim v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Nov  3 23:36:00 2026
+# Process ID: 8244
+# Current directory: D:/newfpga/HX1P35_Tracker_20261102_full/sim/build/_probe
+# Command line: xsim.exe -log loopF.log -mode tcl -source {xsim.dir/loopF/xsim_script.tcl}
+# Log file: D:/newfpga/HX1P35_Tracker_20261102_full/sim/build/_probe/loopF.log
+# Journal file: D:/newfpga/HX1P35_Tracker_20261102_full/sim/build/_probe\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/loopF/xsim_script.tcl
+# xsim {loopF} -autoloadwcfg -runall
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+run -all
+TRK pan_q=6000 tx=84 cx=0 shape=0 valid=0 latch=0 moving=0 fx=0
+TRK pan_q=6000 tx=84 cx=0 shape=0 valid=0 latch=0 moving=0 fx=0
+TRK pan_q=6000 tx=84 cx=84 shape=0 valid=1 latch=0 moving=0 fx=0
+TRK pan_q=6000 tx=84 cx=84 shape=1 valid=1 latch=0 moving=0 fx=0
+TRK pan_q=6000 tx=84 cx=84 shape=1 valid=1 latch=0 moving=0 fx=0
+TRK pan_q=6000 tx=84 cx=84 shape=1 valid=1 latch=1 moving=0 fx=0
+TRK pan_q=6000 tx=84 cx=84 shape=1 valid=1 latch=1 moving=0 fx=5
+TRK pan_q=6000 tx=84 cx=84 shape=1 valid=1 latch=1 moving=0 fx=8
+TRK pan_q=5999 tx=84 cx=84 shape=1 valid=1 latch=1 moving=0 fx=11
+TRK pan_q=5998 tx=84 cx=84 shape=1 valid=1 latch=1 moving=0 fx=13
+TRK pan_q=5997 tx=83 cx=84 shape=1 valid=1 latch=1 moving=0 fx=14
+TRK pan_q=5996 tx=83 cx=83 shape=1 valid=1 latch=1 moving=0 fx=15
+TRK pan_q=5995 tx=82 cx=83 shape=1 valid=1 latch=1 moving=0 fx=16
+TRK pan_q=5993 tx=82 cx=82 shape=1 valid=1 latch=1 moving=0 fx=16
+TRK pan_q=5991 tx=81 cx=82 shape=1 valid=1 latch=1 moving=0 fx=16
+TRK pan_q=5989 tx=80 cx=81 shape=1 valid=1 latch=1 moving=0 fx=16
+TRK pan_q=5987 tx=79 cx=80 shape=1 valid=1 latch=1 moving=0 fx=16
+TRK pan_q=5985 tx=78 cx=79 shape=1 valid=1 latch=1 moving=0 fx=16
+TRK pan_q=5983 tx=77 cx=78 shape=1 valid=1 latch=1 moving=0 fx=15
+TRK pan_q=5982 tx=76 cx=77 shape=1 valid=1 latch=1 moving=0 fx=14
+TRK pan_q=5981 tx=75 cx=76 shape=1 valid=1 latch=1 moving=0 fx=13
+TRK pan_q=5980 tx=75 cx=75 shape=1 valid=1 latch=1 moving=0 fx=12
+TRK pan_q=5979 tx=74 cx=75 shape=1 valid=1 latch=1 moving=0 fx=11
+TRK pan_q=5978 tx=74 cx=74 shape=1 valid=1 latch=1 moving=0 fx=11
+TRK pan_q=5977 tx=73 cx=74 shape=1 valid=1 latch=1 moving=0 fx=10
+TRK pan_q=5976 tx=73 cx=73 shape=1 valid=1 latch=1 moving=0 fx=10
+TRK pan_q=5975 tx=72 cx=73 shape=1 valid=1 latch=1 moving=0 fx=9
+TRK pan_q=5974 tx=72 cx=72 shape=1 valid=1 latch=1 moving=0 fx=9
+TRK pan_q=5973 tx=71 cx=72 shape=1 valid=1 latch=1 moving=0 fx=8
+TRK pan_q=5972 tx=71 cx=71 shape=1 valid=1 latch=1 moving=0 fx=8
+TRK pan_q=5971 tx=70 cx=71 shape=1 valid=1 latch=1 moving=0 fx=7
+TRK pan_q=5970 tx=70 cx=70 shape=1 valid=1 latch=1 moving=0 fx=7
+TRK pan_q=5969 tx=69 cx=70 shape=1 valid=1 latch=1 moving=0 fx=6
+TRK pan_q=5968 tx=69 cx=69 shape=1 valid=1 latch=1 moving=0 fx=6
+TRK pan_q=5967 tx=68 cx=69 shape=1 valid=1 latch=1 moving=0 fx=5
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=5
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+INFO settled: pan_q=5967 pan_us=1491 tx=68 error=4 status_cx=68
+INFO settled: tilt_q=6023 tilt_us=1505 ty=52 error=4 status_cy=52
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+INFO mask: count=1206 box=(56,40)-(80,64) disc=(68,52) r=12
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=68 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=51 cx=68 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=51 cx=52 shape=1 valid=1 latch=1 moving=0 fx=4
+TRK pan_q=5967 tx=51 cx=51 shape=1 valid=1 latch=1 moving=0 fx=0
+TRK pan_q=5967 tx=51 cx=51 shape=1 valid=1 latch=1 moving=0 fx=-4
+TRK pan_q=5967 tx=51 cx=51 shape=1 valid=1 latch=1 moving=0 fx=-7
+TRK pan_q=5968 tx=51 cx=51 shape=1 valid=1 latch=1 moving=0 fx=-9
+TRK pan_q=5969 tx=52 cx=51 shape=1 valid=1 latch=1 moving=0 fx=-10
+TRK pan_q=5970 tx=53 cx=52 shape=1 valid=1 latch=1 moving=0 fx=-11
+TRK pan_q=5971 tx=54 cx=53 shape=1 valid=1 latch=1 moving=0 fx=-12
+TRK pan_q=5972 tx=55 cx=54 shape=1 valid=1 latch=1 moving=0 fx=-12
+TRK pan_q=5973 tx=56 cx=55 shape=1 valid=1 latch=1 moving=0 fx=-12
+TRK pan_q=5974 tx=57 cx=56 shape=1 valid=1 latch=1 moving=0 fx=-12
+TRK pan_q=5975 tx=58 cx=57 shape=1 valid=1 latch=1 moving=0 fx=-11
+TRK pan_q=5976 tx=59 cx=58 shape=1 valid=1 latch=1 moving=0 fx=-10
+TRK pan_q=5977 tx=60 cx=59 shape=1 valid=1 latch=1 moving=0 fx=-9
+TRK pan_q=5978 tx=61 cx=60 shape=1 valid=1 latch=1 moving=0 fx=-8
+TRK pan_q=5979 tx=62 cx=61 shape=1 valid=1 latch=1 moving=0 fx=-7
+TRK pan_q=5980 tx=63 cx=62 shape=1 valid=1 latch=1 moving=0 fx=-6
+TRK pan_q=5981 tx=64 cx=63 shape=1 valid=1 latch=1 moving=0 fx=-5
+TRK pan_q=5981 tx=65 cx=64 shape=1 valid=1 latch=1 moving=0 fx=-4
+TRK pan_q=5981 tx=65 cx=65 shape=1 valid=1 latch=1 moving=0 fx=-3
+TRK pan_q=5981 tx=65 cx=65 shape=1 valid=1 latch=1 moving=0 fx=-2
+TRK pan_q=5981 tx=65 cx=65 shape=1 valid=1 latch=1 moving=0 fx=-2
+TRK pan_q=5981 tx=65 cx=65 shape=1 valid=1 latch=1 moving=0 fx=-2
+PASS track loop: centred object, POSX/POSY = object centre, target-only mask, stable servo
+$finish called at time : 11402740 ns : File "D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_track_loop.v" Line 223
+run: Time (s): cpu = 00:00:00 ; elapsed = 00:03:12 . Memory (MB): peak = 224.082 ; gain = 0.000
+exit
+INFO: [Common 17-206] Exiting xsim at Tue Nov  3 23:39:20 2026...

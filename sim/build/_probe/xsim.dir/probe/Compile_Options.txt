@@ -1,0 +1,1 @@
+"tb_mask_gate" -s "probe" --mt "off" --O0 --timescale "1ns/1ps" 

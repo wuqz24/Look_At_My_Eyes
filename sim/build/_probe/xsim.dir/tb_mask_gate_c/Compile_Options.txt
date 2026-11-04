@@ -1,0 +1,1 @@
+"tb_mask_gate" -s "tb_mask_gate_c" -mt "off" --O0 --timescale "1ns/1ps" 

@@ -1,0 +1,1 @@
+xsim {btG} -autoloadwcfg -runall

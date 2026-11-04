@@ -1,0 +1,1 @@
+xsim {candH} -autoloadwcfg -runall

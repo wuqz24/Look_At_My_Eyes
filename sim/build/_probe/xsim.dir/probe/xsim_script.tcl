@@ -1,0 +1,1 @@
+xsim {probe} -autoloadwcfg -runall

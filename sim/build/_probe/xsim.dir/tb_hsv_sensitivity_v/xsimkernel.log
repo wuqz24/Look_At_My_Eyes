@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_hsv_sensitivity_v/xsimk.exe -runall -simmode gui -wdb tb_hsv_sensitivity_v.wdb -simrunnum 0 -socket 12199
+Design successfully loaded
+Design Loading Memory Usage: 9276 KB (Peak: 9276 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 9796 KB (Peak: 9796 KB)
+Simulation CPU Usage: 31 ms

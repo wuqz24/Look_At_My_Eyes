@@ -1,0 +1,7 @@
+Running: xsim.dir/hsvE/xsimk.exe -runall -simmode gui -wdb hsvE.wdb -simrunnum 0 -socket 11233
+Design successfully loaded
+Design Loading Memory Usage: 9280 KB (Peak: 9280 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 9852 KB (Peak: 9852 KB)
+Simulation CPU Usage: 62 ms

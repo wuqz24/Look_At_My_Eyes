@@ -1,0 +1,1 @@
+xsim {loopD} -autoloadwcfg -runall

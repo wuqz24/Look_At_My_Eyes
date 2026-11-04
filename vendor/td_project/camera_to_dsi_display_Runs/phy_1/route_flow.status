@@ -1,0 +1,24 @@
+Location         : D:\newfpga\HX1P35_Tracker_20261102_full\vendor\td_project\camera_to_dsi_display_Runs\phy_1
+Running with     : Tang Dynasty v6.2.168116
+                   Copyright (c) 2012-2025 Anlogic Inc.
+Top Model        : design_top_wrapper
+Device           : PH1P35MDG324
+Speed            : 3
+
+Timing Mode      : final
+Setup            : WNS -3702ps  TNS  -111588ps  NUM_FEPS    63
+Hold             : WNS    20ps  TNS        0ps  NUM_FEPS     0
+
+Flow Statistics  :
+---------------------------------------------------------------------------------------------------
+     command     |  #calls  |  wall time   |  cpu time(s)  |  used memory(mb)  |  peak memory(mb)  
+---------------------------------------------------------------------------------------------------
+      route      |    1     |  8m45s(59%)  |   640(52%)    |       1603        |       2041        
+      place      |    1     |  5m26s(36%)  |   557(45%)    |       1364        |       1364        
+    fix_hold     |    1     |   15s(1%)    |    14(1%)     |       1579        |       2041        
+    phys_opt     |    1     |   14s(1%)    |    13(1%)     |       1565        |       2041        
+  import_device  |    1     |    2s(0%)    |     2(0%)     |        326        |        326        
+    import_db    |    1     |    1s(0%)    |     0(0%)     |        618        |        618        
+---------------------------------------------------------------------------------------------------
+      total      |    6     |    14m43s    |     1226      |       1603        |       2041        
+---------------------------------------------------------------------------------------------------

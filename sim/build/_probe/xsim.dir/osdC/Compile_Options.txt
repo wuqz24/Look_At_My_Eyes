@@ -1,0 +1,1 @@
+"tb_osd" -s "osdC" -mt "off" --O0 --timescale "1ns/1ps" 

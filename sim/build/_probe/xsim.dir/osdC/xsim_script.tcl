@@ -1,0 +1,1 @@
+xsim {osdC} -autoloadwcfg -runall

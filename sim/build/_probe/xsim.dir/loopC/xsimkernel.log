@@ -1,0 +1,7 @@
+Running: xsim.dir/loopC/xsimk.exe -runall -simmode gui -wdb loopC.wdb -simrunnum 0 -socket 7406
+Design successfully loaded
+Design Loading Memory Usage: 9700 KB (Peak: 9700 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 11440 KB (Peak: 11440 KB)
+Simulation CPU Usage: 127093 ms

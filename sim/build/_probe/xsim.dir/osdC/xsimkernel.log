@@ -1,0 +1,7 @@
+Running: xsim.dir/osdC/xsimk.exe -runall -simmode gui -wdb osdC.wdb -simrunnum 0 -socket 29665
+Design successfully loaded
+Design Loading Memory Usage: 9356 KB (Peak: 9356 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 9924 KB (Peak: 9924 KB)
+Simulation CPU Usage: 93 ms

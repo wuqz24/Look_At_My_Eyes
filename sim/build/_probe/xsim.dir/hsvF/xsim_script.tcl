@@ -1,0 +1,1 @@
+xsim {hsvF} -autoloadwcfg -runall

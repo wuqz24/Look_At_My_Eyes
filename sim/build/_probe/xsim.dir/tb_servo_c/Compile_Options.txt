@@ -1,0 +1,1 @@
+"tb_servo" -s "tb_servo_c" -mt "off" --O0 --timescale "1ns/1ps" 

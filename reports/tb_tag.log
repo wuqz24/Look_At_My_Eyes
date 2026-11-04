@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# xsim v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Oct  5 20:36:59 2026
+# Process ID: 43848
+# Current directory: F:/Anlogic/HX1P35_Tracker/sim/build
+# Command line: xsim.exe -log tb_tag.log -mode tcl -source {xsim.dir/tb_tag/xsim_script.tcl}
+# Log file: F:/Anlogic/HX1P35_Tracker/sim/build/tb_tag.log
+# Journal file: F:/Anlogic/HX1P35_Tracker/sim/build\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/tb_tag/xsim_script.tcl
+# xsim {tb_tag} -autoloadwcfg -runall
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+run -all
+PASS tag: packed-word location, timestamp, replay timeout, corrupt marker rejection
+$finish called at time : 1006190 ns : File "F:/Anlogic/HX1P35_Tracker/sim/tb_tag.v" Line 43
+exit
+INFO: [Common 17-206] Exiting xsim at Mon Oct  5 20:37:04 2026...

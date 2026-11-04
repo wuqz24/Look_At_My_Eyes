@@ -1,0 +1,25 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/anlogic_logo_compact.v,1793554446,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_track_loop.v,,anlogic_logo_compact,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/buzzer_one_shot.v,1791827462,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/display_mode.v,,buzzer_one_shot,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/color_envelopes.v,1791780444,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/display_mode.v,,color_envelope_channel;color_envelopes,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/display_mode.v,1793707332,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_display_mode.v,,display_mode,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/frame_tag.v,1791869456,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/hdmi_mixer.v,,frame_tag_rx;frame_tag_tx,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/hdmi_mixer.v,1793720098,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/display_mode.v,,hdmi_mixer,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/reset_sync.v,1791829200,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/servo_control.v,,reset_sync,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/servo_control.v,1793675213,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_track_loop.v,,servo_control,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_candidates.v,1793715831,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_hsv_sensitivity.v,,tracker_candidates;tracker_color_gate;tracker_hsv_mask;tracker_mask_gate;tracker_mask_region_gate;tracker_region_channel;tracker_roi_refine;tracker_target_mask_gate,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_control.v,1793417536,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/buzzer_one_shot.v,,tracker_control,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_osd.v,1793704103,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_osd.v,,tracker_osd,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_target_select.v,1793417384,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/video_health.v,,tracker_target_select,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/video_health.v,1791829200,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/rtl/frame_tag.v,,video_health,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/rtl/vision_core.v,1789397266,verilog,,,,vision_core,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_bin_threshold.v,1793720288,verilog,,,,tb_bin_threshold,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_hsv_sensitivity.v,1793715799,verilog,,,,tb_hsv_sensitivity,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_mask_gate.v,1792551414,verilog,,,,tb_mask_gate,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_osd.v,1793704116,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_hsv_sensitivity.v,,tb_osd,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_servo.v,1793675231,verilog,,,,tb_servo,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_track_loop.v,1793684406,verilog,,,,tb_track_loop,,,,,,,,
+D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_tracker_candidates.v,1793715927,verilog,,D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_hsv_sensitivity.v,,tb_tracker_candidates,,,,,,,,

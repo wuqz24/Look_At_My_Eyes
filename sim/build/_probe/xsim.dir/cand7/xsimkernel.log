@@ -1,0 +1,7 @@
+Running: xsim.dir/cand7/xsimk.exe -runall -simmode gui -wdb cand7.wdb -simrunnum 0 -socket 5846
+Design successfully loaded
+Design Loading Memory Usage: 9452 KB (Peak: 9452 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 10176 KB (Peak: 10176 KB)
+Simulation CPU Usage: 6577 ms

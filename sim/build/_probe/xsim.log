@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# xsim v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Nov  3 23:38:36 2026
+# Process ID: 12148
+# Current directory: D:/newfpga/HX1P35_Tracker_20261102_full/sim/build/_probe
+# Command line: xsim.exe -mode tcl -source {xsim.dir/btH/xsim_script.tcl}
+# Log file: D:/newfpga/HX1P35_Tracker_20261102_full/sim/build/_probe/xsim.log
+# Journal file: D:/newfpga/HX1P35_Tracker_20261102_full/sim/build/_probe\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/btH/xsim_script.tcl
+# xsim {btH} -autoloadwcfg -runall
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+run -all
+  grey 60 -> threshold 60 (expect ~64)
+  grey 120 -> threshold 124 (expect ~128)
+  grey 180 -> threshold 188 (expect ~191)
+  grey 220 -> threshold 230 (expect ~234)
+  grey 255 -> threshold 237 (expect ~240)
+  grey 80 -> threshold 87 (expect ~85)
+PASS binary threshold: linear in scene brightness, no modulo-256 sawtooth
+$finish called at time : 10674770 ns : File "D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_bin_threshold.v" Line 94
+run: Time (s): cpu = 00:00:00 ; elapsed = 00:03:08 . Memory (MB): peak = 223.828 ; gain = 0.000
+exit
+INFO: [Common 17-206] Exiting xsim at Tue Nov  3 23:41:51 2026...

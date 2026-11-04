@@ -1,0 +1,39 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/buzzer_one_shot.v" into library work
+INFO: [VRFC 10-311] analyzing module buzzer_one_shot
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/color_envelopes.v" into library work
+INFO: [VRFC 10-311] analyzing module color_envelope_channel
+INFO: [VRFC 10-311] analyzing module color_envelopes
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/display_mode.v" into library work
+INFO: [VRFC 10-311] analyzing module display_mode
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/frame_tag.v" into library work
+INFO: [VRFC 10-311] analyzing module frame_tag_tx
+INFO: [VRFC 10-311] analyzing module frame_tag_rx
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/hdmi_mixer.v" into library work
+INFO: [VRFC 10-311] analyzing module hdmi_mixer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/reset_sync.v" into library work
+INFO: [VRFC 10-311] analyzing module reset_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/servo_control.v" into library work
+INFO: [VRFC 10-311] analyzing module servo_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_candidates.v" into library work
+INFO: [VRFC 10-311] analyzing module tracker_color_gate
+INFO: [VRFC 10-311] analyzing module tracker_hsv_mask
+INFO: [VRFC 10-311] analyzing module tracker_region_channel
+INFO: [VRFC 10-311] analyzing module tracker_roi_refine
+INFO: [VRFC 10-311] analyzing module tracker_target_mask_gate
+INFO: [VRFC 10-311] analyzing module tracker_mask_region_gate
+INFO: [VRFC 10-311] analyzing module tracker_mask_gate
+INFO: [VRFC 10-311] analyzing module tracker_candidates
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_control.v" into library work
+INFO: [VRFC 10-311] analyzing module tracker_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_osd.v" into library work
+INFO: [VRFC 10-311] analyzing module tracker_osd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/tracker_target_select.v" into library work
+INFO: [VRFC 10-311] analyzing module tracker_target_select
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/video_health.v" into library work
+INFO: [VRFC 10-311] analyzing module video_health
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/rtl/vision_core.v" into library work
+INFO: [VRFC 10-311] analyzing module vision_core
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/sim/anlogic_logo_compact_stub.v" into library work
+INFO: [VRFC 10-311] analyzing module anlogic_logo_compact
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/newfpga/HX1P35_Tracker_20261102_full/sim/tb_mixer.v" into library work
+INFO: [VRFC 10-311] analyzing module tb_mixer
